@@ -1,0 +1,38 @@
+
+HELP.md
+
+# Build Maven
+target/
+
+# Maven Wrapper
+!.mvn/wrapper/maven-wrapper.jar
+
+# IDEs
+.idea/
+*.iml
+*.ipr
+*.iws
+.vscode/
+
+# Outras IDEs (
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+
+# Gradle
+.gradle/
+build/
+
+# SO / gerais
+.DS_Store
+Thumbs.db
+*.log
